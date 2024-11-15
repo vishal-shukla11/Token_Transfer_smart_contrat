@@ -1,0 +1,144 @@
+{
+  "accounts": {
+    "account{0}": "0xD5c32e1E5425CB81CB2f4Aa9bF96743289DA9882"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1731670986966,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x12daef3f5fc72c72bb68abc025f4621c5f669d555ed21fa7301113d9b909bd69",
+        "contractName": "TokenContract",
+        "bytecode": "6080604052348015600e575f80fd5b50335f806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506108c48061005b5f395ff3fe608060405234801561000f575f80fd5b5060043610610055575f3560e01c806327e235e31461005957806340c10f191461008957806370a08231146100a55780638da5cb5b146100d5578063a9059cbb146100f3575b5f80fd5b610073600480360381019061006e91906105c7565b61010f565b604051610080919061060a565b60405180910390f35b6100a3600480360381019061009e919061064d565b610124565b005b6100bf60048036038101906100ba91906105c7565b610276565b6040516100cc919061060a565b60405180910390f35b6100dd6102bc565b6040516100ea919061069a565b60405180910390f35b61010d6004803603810190610108919061064d565b6102df565b005b6001602052805f5260405f205f915090505481565b5f8054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff16146101b1576040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016101a89061070d565b60405180910390fd5b5f73ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff160361021f576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040161021690610775565b60405180910390fd5b8060015f8473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f82825461026b91906107c0565b925050819055505050565b5f60015f8373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f20549050919050565b5f8054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b5f8054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff161461036c576040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016103639061070d565b60405180910390fd5b8060015f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205410156103ec576040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016103e39061083d565b60405180910390fd5b5f73ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff160361045a576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040161045190610775565b60405180910390fd5b8060015f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f8282546104a6919061085b565b925050819055508060015f8473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f8282546104f991906107c0565b925050819055508173ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167fddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef8360405161055d919061060a565b60405180910390a35050565b5f80fd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6105968261056d565b9050919050565b6105a68161058c565b81146105b0575f80fd5b50565b5f813590506105c18161059d565b92915050565b5f602082840312156105dc576105db610569565b5b5f6105e9848285016105b3565b91505092915050565b5f819050919050565b610604816105f2565b82525050565b5f60208201905061061d5f8301846105fb565b92915050565b61062c816105f2565b8114610636575f80fd5b50565b5f8135905061064781610623565b92915050565b5f806040838503121561066357610662610569565b5b5f610670858286016105b3565b925050602061068185828601610639565b9150509250929050565b6106948161058c565b82525050565b5f6020820190506106ad5f83018461068b565b92915050565b5f82825260208201905092915050565b7f4e6f742074686520636f6e7472616374206f776e6572000000000000000000005f82015250565b5f6106f76016836106b3565b9150610702826106c3565b602082019050919050565b5f6020820190508181035f830152610724816106eb565b9050919050565b7f496e76616c6964206164647265737300000000000000000000000000000000005f82015250565b5f61075f600f836106b3565b915061076a8261072b565b602082019050919050565b5f6020820190508181035f83015261078c81610753565b9050919050565b7f4e487b71000000000000000000000000000000000000000000000000000000005f52601160045260245ffd5b5f6107ca826105f2565b91506107d5836105f2565b92508282019050808211156107ed576107ec610793565b5b92915050565b7f496e73756666696369656e742062616c616e63650000000000000000000000005f82015250565b5f6108276014836106b3565b9150610832826107f3565b602082019050919050565b5f6020820190508181035f8301526108548161081b565b9050919050565b5f610865826105f2565b9150610870836105f2565b925082820390508181111561088857610887610793565b5b9291505056fea264697066735822122047f3e1f829cc9a28d9f7c0e4985eb6f3609e80ab8a14adca4eb567b0f46e630d64736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {
+    "0x12daef3f5fc72c72bb68abc025f4621c5f669d555ed21fa7301113d9b909bd69": [
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_amount",
+            "type": "uint256"
+          }
+        ],
+        "name": "mint",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_to",
+            "type": "address"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_amount",
+            "type": "uint256"
+          }
+        ],
+        "name": "transfer",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+      },
+      {
+        "anonymous": false,
+        "inputs": [
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "from",
+            "type": "address"
+          },
+          {
+            "indexed": true,
+            "internalType": "address",
+            "name": "to",
+            "type": "address"
+          },
+          {
+            "indexed": false,
+            "internalType": "uint256",
+            "name": "value",
+            "type": "uint256"
+          }
+        ],
+        "name": "Transfer",
+        "type": "event"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "_account",
+            "type": "address"
+          }
+        ],
+        "name": "balanceOf",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "balances",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "owner",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}
